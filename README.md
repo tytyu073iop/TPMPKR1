@@ -11,6 +11,7 @@
 ```
 gcc main.c
 ```
+или [ссылка](https://github.com/tytyu073iop/TPMPKR1/tree/development/src)
 
 ## Автор
 
